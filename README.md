@@ -1,2 +1,2 @@
 # html-portfolio
-Starting to work on GitHub, so this is jsst a TEST Repo
+I am starting to work on GitHub, so this is just a TEST Repo
